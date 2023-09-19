@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfProfilerDescription xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProfilerDescription Id="7625923668379592734" QualifiedName="MAIN" Offset="0" />
+  <ProfilerDescription Id="4594162771707952059" QualifiedName="A_Program" Offset="0" />
+  <ProfilerDescription Id="2184203901330450007" QualifiedName="B_Program" Offset="0" />
+  <ProfilerDescription Id="7625923668379592734" QualifiedName="ThreeProgramLevels.Style2.MAIN" Offset="0" />
+  <ProfilerDescription Id="4594162771707952059" QualifiedName="ThreeProgramLevels.Style2.A_Program" Offset="0" />
+  <ProfilerDescription Id="2184203901330450007" QualifiedName="ThreeProgramLevels.Style2.B_Program" Offset="0" />
+</ArrayOfProfilerDescription>

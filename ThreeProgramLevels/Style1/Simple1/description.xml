@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfProfilerDescription xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProfilerDescription Id="7625923668379592734" QualifiedName="MAIN" Offset="0" />
+  <ProfilerDescription Id="7625923668379592734" QualifiedName="ThreeProgramLevels.Style1.MAIN" Offset="0" />
+</ArrayOfProfilerDescription>

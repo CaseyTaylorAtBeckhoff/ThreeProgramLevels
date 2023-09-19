@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProfilerRecordConfigFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <BlackList>
+    <string>EXCEPT_WHITELIST</string>
+  </BlackList>
+  <WhiteList>
+    <string>PROGRAM</string>
+  </WhiteList>
+  <Records>
+    <ProfilerRecordFile>
+      <CsvRecordFormat>Task, Cycle, Depth, FBAddress, Address, Runtime, OwnTime</CsvRecordFormat>
+      <FileName>2022_05_07_05_34_24_115</FileName>
+      <Date>5/7/2022 5:34:24 PM</Date>
+      <Tasks>
+        <TaskInfo>
+          <Name>PlcTask</Name>
+          <Priority>20</Priority>
+          <Duration>1189285</Duration>
+        </TaskInfo>
+      </Tasks>
+      <Cycles>357</Cycles>
+      <Min>14</Min>
+      <Max>3817</Max>
+      <MaxDepth>2</MaxDepth>
+      <ProfiledElementCount>1071</ProfiledElementCount>
+      <MeasuredTime>0</MeasuredTime>
+    </ProfilerRecordFile>
+    <ProfilerRecordFile>
+      <CsvRecordFormat>Task, Cycle, Depth, FBAddress, Address, Runtime, OwnTime</CsvRecordFormat>
+      <FileName>2022_05_07_05_49_36_446</FileName>
+      <Date>5/7/2022 5:49:36 PM</Date>
+      <Tasks>
+        <TaskInfo>
+          <Name>PlcTask</Name>
+          <Priority>20</Priority>
+          <Duration>185076</Duration>
+        </TaskInfo>
+      </Tasks>
+      <Cycles>503</Cycles>
+      <Min>14</Min>
+      <Max>450</Max>
+      <MaxDepth>2</MaxDepth>
+      <ProfiledElementCount>1509</ProfiledElementCount>
+      <MeasuredTime>0</MeasuredTime>
+    </ProfilerRecordFile>
+    <ProfilerRecordFile>
+      <CsvRecordFormat>Task, Cycle, Depth, FBAddress, Address, Runtime, OwnTime</CsvRecordFormat>
+      <FileName>2022_05_08_12_19_28_043</FileName>
+      <Date>5/8/2022 12:19:28 AM</Date>
+      <Tasks>
+        <TaskInfo>
+          <Name>PlcTask</Name>
+          <Priority>20</Priority>
+          <Duration>26929</Duration>
+        </TaskInfo>
+      </Tasks>
+      <Cycles>612</Cycles>
+      <Min>13</Min>
+      <Max>27</Max>
+      <MaxDepth>2</MaxDepth>
+      <ProfiledElementCount>1836</ProfiledElementCount>
+      <MeasuredTime>0</MeasuredTime>
+    </ProfilerRecordFile>
+  </Records>
+</ProfilerRecordConfigFile>

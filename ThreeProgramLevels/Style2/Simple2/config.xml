@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProfilerRecordConfigFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <BlackList>
+    <string>EXCEPT_WHITELIST</string>
+  </BlackList>
+  <WhiteList>
+    <string>MAIN</string>
+  </WhiteList>
+  <Records>
+    <ProfilerRecordFile>
+      <CsvRecordFormat>Task, Cycle, Depth, FBAddress, Address, Runtime, OwnTime</CsvRecordFormat>
+      <FileName>2022_05_08_12_27_00_646</FileName>
+      <Date>5/8/2022 12:27:00 AM</Date>
+      <Tasks>
+        <TaskInfo>
+          <Priority>20</Priority>
+          <Duration>10454</Duration>
+        </TaskInfo>
+        <TaskInfo>
+          <Name>PlcTask</Name>
+          <Priority>21</Priority>
+          <Duration>10804</Duration>
+        </TaskInfo>
+      </Tasks>
+      <Cycles>1361</Cycles>
+      <Min>13</Min>
+      <Max>56</Max>
+      <MaxDepth>0</MaxDepth>
+      <ProfiledElementCount>1361</ProfiledElementCount>
+      <MeasuredTime>0</MeasuredTime>
+    </ProfilerRecordFile>
+  </Records>
+</ProfilerRecordConfigFile>

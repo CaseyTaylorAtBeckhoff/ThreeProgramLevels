@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProfilerRecordConfigFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <BlackList>
+    <string>EXCEPT_WHITELIST</string>
+  </BlackList>
+  <WhiteList>
+    <string>PROGRAM</string>
+  </WhiteList>
+  <Records>
+    <ProfilerRecordFile>
+      <CsvRecordFormat>Task, Cycle, Depth, FBAddress, Address, Runtime, OwnTime</CsvRecordFormat>
+      <FileName>2022_05_07_05_52_59_523</FileName>
+      <Date>5/7/2022 5:52:59 PM</Date>
+      <Tasks>
+        <TaskInfo>
+          <Priority>21</Priority>
+          <Duration>5838</Duration>
+        </TaskInfo>
+      </Tasks>
+      <Cycles>3</Cycles>
+      <Min>7</Min>
+      <Max>1074</Max>
+      <MaxDepth>2</MaxDepth>
+      <ProfiledElementCount>309</ProfiledElementCount>
+      <MeasuredTime>0</MeasuredTime>
+    </ProfilerRecordFile>
+    <ProfilerRecordFile>
+      <CsvRecordFormat>Task, Cycle, Depth, FBAddress, Address, Runtime, OwnTime</CsvRecordFormat>
+      <FileName>2022_05_07_05_57_33_706</FileName>
+      <Date>5/7/2022 5:57:33 PM</Date>
+      <Tasks>
+        <TaskInfo>
+          <Name>PlcTask</Name>
+          <Priority>21</Priority>
+          <Duration>71391</Duration>
+        </TaskInfo>
+      </Tasks>
+      <Cycles>809</Cycles>
+      <Min>14</Min>
+      <Max>82</Max>
+      <MaxDepth>2</MaxDepth>
+      <ProfiledElementCount>2427</ProfiledElementCount>
+      <MeasuredTime>0</MeasuredTime>
+    </ProfilerRecordFile>
+    <ProfilerRecordFile>
+      <CsvRecordFormat>Task, Cycle, Depth, FBAddress, Address, Runtime, OwnTime</CsvRecordFormat>
+      <FileName>2022_05_08_12_05_20_198</FileName>
+      <Date>5/8/2022 12:05:20 AM</Date>
+      <Tasks>
+        <TaskInfo>
+          <Name>PlcTask</Name>
+          <Priority>21</Priority>
+          <Duration>50003</Duration>
+        </TaskInfo>
+      </Tasks>
+      <Cycles>859</Cycles>
+      <Min>10</Min>
+      <Max>58</Max>
+      <MaxDepth>2</MaxDepth>
+      <ProfiledElementCount>2577</ProfiledElementCount>
+      <MeasuredTime>0</MeasuredTime>
+    </ProfilerRecordFile>
+    <ProfilerRecordFile>
+      <CsvRecordFormat>Task, Cycle, Depth, FBAddress, Address, Runtime, OwnTime</CsvRecordFormat>
+      <FileName>2022_05_08_12_07_26_096</FileName>
+      <Date>5/8/2022 12:07:26 AM</Date>
+      <Tasks>
+        <TaskInfo>
+          <Name>PlcTask</Name>
+          <Priority>21</Priority>
+          <Duration>66999</Duration>
+        </TaskInfo>
+      </Tasks>
+      <Cycles>955</Cycles>
+      <Min>16</Min>
+      <Max>61</Max>
+      <MaxDepth>2</MaxDepth>
+      <ProfiledElementCount>2865</ProfiledElementCount>
+      <MeasuredTime>0</MeasuredTime>
+    </ProfilerRecordFile>
+    <ProfilerRecordFile>
+      <CsvRecordFormat>Task, Cycle, Depth, FBAddress, Address, Runtime, OwnTime</CsvRecordFormat>
+      <FileName>2022_05_08_12_10_26_241</FileName>
+      <Date>5/8/2022 12:10:26 AM</Date>
+      <Tasks>
+        <TaskInfo>
+          <Name>PlcTask</Name>
+          <Priority>21</Priority>
+          <Duration>250843</Duration>
+        </TaskInfo>
+      </Tasks>
+      <Cycles>915</Cycles>
+      <Min>7</Min>
+      <Max>170</Max>
+      <MaxDepth>2</MaxDepth>
+      <ProfiledElementCount>11895</ProfiledElementCount>
+      <MeasuredTime>0</MeasuredTime>
+    </ProfilerRecordFile>
+    <ProfilerRecordFile>
+      <CsvRecordFormat>Task, Cycle, Depth, FBAddress, Address, Runtime, OwnTime</CsvRecordFormat>
+      <FileName>2022_05_08_12_13_59_555</FileName>
+      <Date>5/8/2022 12:13:59 AM</Date>
+      <Tasks>
+        <TaskInfo>
+          <Name>PlcTask</Name>
+          <Priority>21</Priority>
+          <Duration>239232</Duration>
+        </TaskInfo>
+      </Tasks>
+      <Cycles>807</Cycles>
+      <Min>7</Min>
+      <Max>184</Max>
+      <MaxDepth>2</MaxDepth>
+      <ProfiledElementCount>11298</ProfiledElementCount>
+      <MeasuredTime>0</MeasuredTime>
+    </ProfilerRecordFile>
+    <ProfilerRecordFile>
+      <CsvRecordFormat>Task, Cycle, Depth, FBAddress, Address, Runtime, OwnTime</CsvRecordFormat>
+      <FileName>2022_05_08_12_17_17_130</FileName>
+      <Date>5/8/2022 12:17:17 AM</Date>
+      <Tasks>
+        <TaskInfo>
+          <Priority>21</Priority>
+          <Duration>13347</Duration>
+        </TaskInfo>
+      </Tasks>
+      <Cycles>12</Cycles>
+      <Min>7</Min>
+      <Max>593</Max>
+      <MaxDepth>2</MaxDepth>
+      <ProfiledElementCount>648</ProfiledElementCount>
+      <MeasuredTime>0</MeasuredTime>
+    </ProfilerRecordFile>
+    <ProfilerRecordFile>
+      <CsvRecordFormat>Task, Cycle, Depth, FBAddress, Address, Runtime, OwnTime</CsvRecordFormat>
+      <FileName>2022_05_08_12_19_52_692</FileName>
+      <Date>5/8/2022 12:19:52 AM</Date>
+      <Tasks>
+        <TaskInfo>
+          <Priority>20</Priority>
+          <Duration>42514</Duration>
+        </TaskInfo>
+        <TaskInfo>
+          <Name>PlcTask</Name>
+          <Priority>21</Priority>
+          <Duration>456687</Duration>
+        </TaskInfo>
+      </Tasks>
+      <Cycles>1855</Cycles>
+      <Min>7</Min>
+      <Max>290</Max>
+      <MaxDepth>2</MaxDepth>
+      <ProfiledElementCount>24528</ProfiledElementCount>
+      <MeasuredTime>0</MeasuredTime>
+    </ProfilerRecordFile>
+  </Records>
+</ProfilerRecordConfigFile>

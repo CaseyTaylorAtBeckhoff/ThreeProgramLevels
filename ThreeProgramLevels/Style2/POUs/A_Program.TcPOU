@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TcPlcObject Version="1.1.0.1" ProductVersion="3.1.4025.12">
+  <POU Name="A_Program" Id="{94ff7dcc-e535-4290-85b3-9736c93efdb9}" SpecialFunc="None">
+    <Declaration><![CDATA[PROGRAM A_Program
+VAR
+	i : UINT;
+
+END_VAR
+]]></Declaration>
+    <Implementation>
+      <ST><![CDATA[FOR i := 0 TO 100 DO
+	B_Program();
+END_FOR
+]]></ST>
+    </Implementation>
+    <LineIds Name="A_Program">
+      <LineId Id="17" Count="1" />
+      <LineId Id="10" Count="1" />
+    </LineIds>
+  </POU>
+</TcPlcObject>
